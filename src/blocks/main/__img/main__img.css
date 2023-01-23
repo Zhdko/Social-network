@@ -1,0 +1,9 @@
+.main__img {
+  width: 100%;
+  height: 200px;
+  background-image: url('https://w-dog.ru/wallpapers/1/17/452971357379737/para-veselyx-tancuyushhix-klavish-s-klaviatury.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px;
+}

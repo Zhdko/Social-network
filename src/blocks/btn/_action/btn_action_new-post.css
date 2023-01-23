@@ -1,0 +1,12 @@
+.btn_action_new-post {
+  font-family: "Prompt", "Arial", sans-serif;
+  background-color: rgb(98, 98, 98);
+  padding:5px 10px;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 16px;
+  text-transform: lowercase;
+  color: rgb(255, 255, 255);
+  align-self: flex-end;
+  min-width: 130px;
+}

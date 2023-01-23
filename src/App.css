@@ -36,3 +36,53 @@
     transform: rotate(360deg);
   }
 }
+
+
+@import url(./vendor/fonts.css);
+@import url(./blocks/page/page.css);
+
+@import url(./blocks/link/link.css);
+@import url(./blocks/list/list.css);
+
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__logo/header__logo.css);
+
+@import url(./blocks/sidebar/sidebar.css);
+@import url(./blocks/sidebar/__item/sidebar__item.css);
+@import url(./blocks/sidebar/__ico/sidebar__ico.css);
+@import url(./blocks/sidebar/__text/sidebar__text.css);
+@import url(./blocks/sidebar/__list/sidebar__list.css);
+@import url(./blocks/sidebar/__setting/sidebar__setting.css);
+@import url(./blocks/sidebar/__friends/sidebar__friends.css);
+
+@import url(./blocks/main/main.css);
+@import url(./blocks/main/__img/main__img.css);
+
+@import url(./blocks/profile/profile.css);
+@import url(./blocks/profile/__img/profile__img.css);
+@import url(./blocks/profile/__description/profile__description.css);
+@import url(./blocks/profile/__username/profile__username.css);
+@import url(./blocks/profile/__info/profile__info.css);
+@import url(./blocks/profile/__text/profile__text.css);
+@import url(./blocks/profile/__data/profile__data.css);
+
+@import url(./blocks/my-posts/my-posts.css);
+@import url(./blocks/posts/posts.css);
+@import url(./blocks/btn/btn.css);
+@import url(./blocks/btn/_action/btn_action_new-post.css);
+@import url(./blocks/new-post/new-post.css);
+@import url(./blocks/new-post/__form/new-post__form.css);
+@import url(./blocks/new-post/__title/new-post__title.css);
+@import url(./blocks/new-post/__input/new-post__input.css);
+@import url(./blocks/posts/posts.css);
+@import url(./blocks/post/post.css);
+@import url(./blocks/post/__text/post__text.css);
+@import url(./blocks/btn/_invalid/btn_invalid.css);
+
+@import url(./blocks/like/like.css);
+@import url(./blocks/btn/__like/btn__like.css);
+@import url(./blocks/btn/__like/_active/btn__like_active.css);
+@import url(./blocks/like/__cur/like__cur.css);
+
+@import url(./blocks/friend-avatar/friend-avatar.css);
+@import url(./blocks/friend-avatar/_place/friand-avatar_place_post.css);

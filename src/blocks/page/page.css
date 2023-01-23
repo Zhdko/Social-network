@@ -1,0 +1,14 @@
+.page {
+  background-color: rgb(98, 98, 98);
+  color: rgb(233, 233, 233);
+  display: grid;
+  grid-template-areas: "header header header"
+  "sidebar main main"
+  "sidebar main main";
+  grid-template-columns: 3fr 10fr;
+  max-width: 1700px;
+  min-width: 320px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,27 @@
+.btn {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 0;
+  border-radius: 0;
+  background-color: transparent;
+  padding: 0;
+  cursor: pointer;
+  box-sizing: border-box;
+  transition: all 0.1s ease;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.btn:hover {
+  opacity: 0.6;
+}
+
+.btn_action_new-post:focus {
+  outline: none;
+  opacity: 0.5;
+}
+.btn_action_new-post::-moz-focus-inner {
+  border: 0;
+}

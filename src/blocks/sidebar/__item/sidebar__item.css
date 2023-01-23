@@ -1,0 +1,13 @@
+.sidebar__item {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 10px 0 10px 10px;
+  border-radius: 8px;
+  background-color: rgba(74, 74, 74, 0);
+  transition: background-color 0.2s linear;
+}
+
+.sidebar__item:hover {
+  background-color: rgba(74, 74, 74, 1);
+}

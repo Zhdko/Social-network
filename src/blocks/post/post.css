@@ -1,0 +1,8 @@
+.post {
+  display: flex;
+  gap: 30px;
+  width: 100%;
+  color: rgb(237, 237, 237);
+  box-sizing: border-box;
+  align-items: center;
+}

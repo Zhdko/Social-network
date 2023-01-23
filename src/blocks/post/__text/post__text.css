@@ -1,0 +1,8 @@
+.post__text {
+  margin: 0;
+  font-family: "Prompt", "Arial", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  padding-top: 10px;
+  align-self: flex-start;
+}

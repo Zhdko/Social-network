@@ -1,0 +1,12 @@
+.btn__like {
+  width: 30px;
+  height: 25px;
+  background-image: url(https://cdn-icons-png.flaticon.com/512/1176/1176431.png);
+  background-position: center bottom;
+  transition: all 0.1s linear;
+}
+
+.btn__like:hover {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/1721/1721538.png);
+  opacity: 1;
+}

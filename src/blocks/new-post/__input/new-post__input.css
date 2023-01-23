@@ -1,0 +1,21 @@
+.new-post__input {
+  border: none;
+  padding: 10px;
+  font-family: 'Prompt', Arial, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 0.82;
+  color: rgb(233, 233, 233);
+  min-height: 80px;
+  background-color: rgb(139, 139, 139);
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+.new-post__input:focus {
+  outline: none;
+}
+
+.new-post__input::placeholder {
+  font-size: 20px;
+}
